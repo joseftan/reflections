@@ -1,0 +1,1 @@
+initializing repository prepare directory for git
