@@ -1,1 +1,17 @@
 initializing repository prepare directory for git
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+ans: use git diff first to compare working and staging and git diff —staged to compare staging and repository before commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+and:branches are helpful in case trial versions are needed, experimental changes.
+
+How do the diagrams help you visualize the branch structure?
+and: it shows parent and and branches…also not reachable comments from specific tip
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the two branches were combined. to show the parents that will be included in logs
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+and: pro is faster merge, cons cannot think for now…maybe there is chance of error
