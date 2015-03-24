@@ -1,1 +1,7 @@
 Lesson 3 reflections
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+to have better control of commits that want to download
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ans: forks is copying from git hub to another git hub directory, clone is copying from git hub to local, branch is creating another copy with changes locally
